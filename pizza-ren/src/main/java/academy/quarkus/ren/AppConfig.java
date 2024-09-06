@@ -9,4 +9,6 @@ import io.smallrye.config.WithDefault;
 public interface AppConfig {
     @WithDefault("Delicious!")
     String slogan();
+
+    String googleMapsApiKey();
 }

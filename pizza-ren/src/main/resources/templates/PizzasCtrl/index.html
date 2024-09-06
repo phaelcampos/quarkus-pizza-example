@@ -1,7 +1,8 @@
-{#include main.html}
-{#title}Pizzas quarkus {/title}
+{#include main.html }
+{#title}Pizzas Quarkus{/title}
+
 <section class="home-slider owl-carousel img" style="background-image: url(images/bg_1.jpg);">
-    {#for item in data.sliderItems}
+    {#for item in data.sliderItems }
         {#slider-item item /}
     {/for}
 </section>
@@ -627,25 +628,22 @@
                 {#form uri:PizzasCtrl.doSendMessage() class="appointment-form"}
                     <div class="d-md-flex">
                         {#field}
-                            {#input-text name="lastName" placeholder="Last Name!!!"/}
+                            {#input-text name="firstName" placeholder="First Name:" /}
                         {/field}
                     </div>
                     <div class="d-me-flex">
                         {#field}
-                            {#input-text name="firstName" placeholder="First Name!!!"/}
+                            {#input-text name="lastName" placeholder="Last Name" /}
                         {/field}
                     </div>
-                    <div class="d-me-flex">
-                        {#field}
-                            {#text-area name="message" placeholder="Mssage!!!!" /}
-                        {/field}
-                    </div>
-                    <div class="form-group">
+                    {#field}
+                        {#input-area name="message" placeholder="Message" /}
+                    {/field}
+                    {#field}
                         <input type="submit" value="Send" class="btn btn-primary py-3 px-4">
-                    </div>
+                    {/field}
                 {/form}
             </div>
         </div>
     </div>
 </section>
-{/include}

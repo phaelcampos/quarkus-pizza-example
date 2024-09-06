@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c1abea4-a694-4f7d-97de-3a901d284ec7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/src/main/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/src/main/frontend/themes/starter-theme/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/src/main/frontend/themes/starter-theme/theme.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/src/main/frontend/views/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/src/main/resources/META-INF/resources/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza-vdn/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.copilot-plugin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/docker/Dockerfile.jvm" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/src/main/docker/Dockerfile.jvm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/src/main/docker/Dockerfile.legacy-jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/dev/SampleDataInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/event/EventLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/event/NotificationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/event/TicketSubmitted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Courier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Delivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/TicketItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/model/TicketStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/rs/DeliveryResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/rs/PizzaResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/rs/PizzaResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/rs/TicketItemAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/rs/TicketsResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/java/academy/quarkus/pizza/rs/user/WhoAmIResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/test/java/academy/quarkus/pizza/data/InitrestAssured.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/test/java/academy/quarkus/pizza/data/TesteDataProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/test/java/academy/quarkus/pizza/rs/DeliveryResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-api/src/test/java/academy/quarkus/pizza/rs/PizzaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/.envrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/docker/Dockerfile.jvm" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/docker/Dockerfile.jvm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/docker/Dockerfile.legacy-jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/AppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/AppContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/PizzasCtrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/data/SliderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/java/academy/quarkus/ren/data/SliderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/META-INF/resources/fonts/ionicons/css/_ionicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/META-INF/resources/fonts/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/PizzasCtrl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/PizzasCtrl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/field.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/field.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/input-text.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/input-text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/slider-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/slider-item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza-ren/src/main/resources/templates/tags/text-area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lcY4esxSLjAdy4kaoX8jb8Y9Qu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1abea4-a694-4f7d-97de-3a901d284ec7" name="Changes" comment="" />
+      <created>1725480642575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725480642575</updated>
+    </task>
+    <servers />
+  </component>
+</project>

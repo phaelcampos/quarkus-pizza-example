@@ -10,7 +10,12 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>pizza-core</module>
         <module>pizza-api</module>
+        <module>pizza-ren</module>
+        <module>pizza-vdn</module>
+        <module>infra/cdk/secrets</module>
+        <module>infra/cdk/base</module>
     </modules>
 
     <properties>
